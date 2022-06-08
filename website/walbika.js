@@ -1,6 +1,6 @@
 window.onload = choosePic;
 
-var imageCount = 3;
+var imageCount = 30;
 var folder = "images/";
 
 function choosePic() {
